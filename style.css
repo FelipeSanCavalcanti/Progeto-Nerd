@@ -30,7 +30,9 @@
 body {
     margin: 0px;
     font-family: var(--fonte-padrão);
-    background-image: linear-gradient(to bottom, rgb(14, 14, 14), rgb(24, 24, 24), var(--cor4));
+    background: black url(imagens/A\ grande\ onda.jpg) left center no-repeat fixed;
+    background-size: cover;
+    
 }
 
 nav {
